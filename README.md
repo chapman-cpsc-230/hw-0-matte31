@@ -1,16 +1,16 @@
 # Git Workflow
 
-**Author:** _\<your name\>_
+**Author:** Matt Elliott
 
-**Due date:** _\<date\>_
+**Due date:** February 4, 2016
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+Cloning repository files to the desktop and editing them with atom.
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+I learned how to use atom and its different markdown methods and themes.
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Matt Elliott
